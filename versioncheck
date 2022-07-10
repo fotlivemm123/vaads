@@ -1,4 +1,5 @@
 {
-"version": "1.2.4",
-"versionCheck":"1.2.4"
+"checkVersion":"Latest Version"
+"formerVersion": "1.2.4",
+"nowVersion":"1.2.4"
 }
