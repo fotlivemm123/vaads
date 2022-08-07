@@ -6,9 +6,38 @@
 "bannerimg":"https://3photos6.files.wordpress.com/2022/07/ads-inwa777-size1150x550.gif",
 "bannerlink":"https://bit.ly/3zaqEgi",
  "bannermessenger":"no",
-
+ 
 "inter": "yes",
 "img": "https://3photos6.files.wordpress.com/2022/07/inwa777-football-ads-1.gif",
 "messenger":"no",
-"link":"https://bit.ly/3zaqEgi"
+"link":"https://bit.ly/3zaqEgi",
+
+
+
+
+
+
+"hlbannerimg":"https://3photos6.files.wordpress.com/2022/07/ads-inwa777-size1150x550.gif",
+"hlbannerlink":"https://bit.ly/3zaqEgi",
+ "hlbannermessenger":"no",
+ 
+"hlinter": "yes",
+"hlimg": "https://3photos6.files.wordpress.com/2022/07/inwa777-football-ads-1.gif",
+"hlmessenger":"no",
+"hllink":"https://bit.ly/3zaqEgi",
+
+
+
+
+
+
+"newsbannerimg":"https://3photos6.files.wordpress.com/2022/07/ads-inwa777-size1150x550.gif",
+"newsbannerlink":"https://bit.ly/3zaqEgi",
+ "newsbannermessenger":"no",
+ 
+"newsinter": "yes",
+"newsimg": "https://3photos6.files.wordpress.com/2022/07/inwa777-football-ads-1.gif",
+"newsmessenger":"no",
+"newslink":"https://bit.ly/3zaqEgi"
+
 }
