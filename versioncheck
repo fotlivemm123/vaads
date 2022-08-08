@@ -21,7 +21,7 @@
 "hlbannerlink":"https://bit.ly/3zaqEgi",
  "hlbannermessenger":"no",
  
-"hlinter": "yes",
+"hlinter": "no",
 "hlimg": "https://3photos6.files.wordpress.com/2022/07/inwa777-football-ads-1.gif",
 "hlmessenger":"no",
 "hllink":"https://bit.ly/3zaqEgi",
@@ -38,6 +38,14 @@
 "newsinter": "yes",
 "newsimg": "https://3photos6.files.wordpress.com/2022/07/inwa777-football-ads-1.gif",
 "newsmessenger":"no",
-"newslink":"https://bit.ly/3zaqEgi"
+"newslink":"https://bit.ly/3zaqEgi",
+
+
+"chanbannerimg":"https://3photos6.files.wordpress.com/2022/07/ads-inwa777-size1150x550.gif",
+"chanbannerlink":"https://bit.ly/3zaqEgi",
+ "chanbannermessenger":"no"
+
+
+
 
 }
